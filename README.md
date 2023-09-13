@@ -1,0 +1,1 @@
+This simple html site has an index with 3 different recipes that I have written. Each recipe has a description, ingredients list, and how to cook it. At the end of each recipe there is a link back to the main page.
